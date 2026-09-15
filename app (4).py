@@ -20,10 +20,10 @@ JEOPARDY_DATA = {
     ],
     "Limits": [
         {"val": 200, "q": "Evaluate: lim_{x -> 2} (3x^2 - 5)", "a": "7"},
-        {"val": 400, "q": "Evaluate: lim_{x -> 0} (sin(x) / x)", "a": "1"},
+        {"val": 400, "q": r"Evaluate: $\lim_{x \to 0} \frac{1 - \cos(x)}{x}$", "a": "0"},
         {"val": 600, "q": "Evaluate: lim_{x -> infinity} ((4x^3 - 2) / (2x^3 + 5))", "a": "2"},
         {"val": 800, "q": "Evaluate: lim_{x -> 3} ((x^2 - 9) / (x - 3))", "a": "6"},
-        {"val": 1000, "q": "This rule allows taking derivatives of numerator and denominator to evaluate 0/0 or inf/inf limits.", "a": "L'Hôpital's Rule"}
+        {"val": 1000, "q": r"Evaluate: $\lim_{x \to \infty} \left(1 + \frac{3}{x}\right)^x$", "a": "e^3"}
     ],
     "Believe": [
         {"val": 200, "q": "The fictional English soccer team that Ted Lasso is hired to coach.", "a": "AFC Richmond"},
