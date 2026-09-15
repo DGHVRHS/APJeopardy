@@ -23,7 +23,7 @@ JEOPARDY_DATA = {
         {"val": 400, "q": r"Evaluate: $\lim_{x \to 0} \frac{1 - \cos(x)}{x}$", "a": "0"},
         {"val": 600, "q": r"Evaluate: $\lim_{x \to \infty} \frac{4x^3 - 2}{2x^3 + 5}$", "a": "2"},
         {"val": 800, "q": r"Evaluate: $\lim_{x \to 3} \frac{x^2 - 9}{x - 3}$", "a": "6"},
-        {"val": 1000, "q": r"Evaluate: $\lim_{x \to \infty} \left(1 + \frac{3}{x}\right)^x$", "a": "e^3"}
+        {"val": 1000, "q": r"Evaluate: $\lim_{x \to \infty} \left(1 + \frac{1}{x}\right)^x$", "a": "e"}
     ],
     "Believe": [
         {"val": 200, "q": "The fictional English soccer team that Ted Lasso is hired to coach.", "a": "AFC Richmond"},
