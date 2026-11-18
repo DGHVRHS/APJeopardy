@@ -81,7 +81,7 @@ JEOPARDY_DATA = {
         },
         {
             "val": 1000,
-            "q": r"A theater sells $400$ tickets when the price is $20$. For every $1$ price increase, $10$ fewer tickets sell. What ticket price maximizes revenue?",
+            "q": r"A theater sells $400$ tickets when the price is $\$20$. For every $\$1$ price increase, $10$ fewer tickets sell. What ticket price maximizes revenue?",
             "a": r"$\$30$ (Max revenue: $\$9,000$)  \n  *($R(n) = (20 + n)(400 - 10n) = 8000 + 200n - 10n^2 \implies R'(n) = 200 - 20n = 0 \implies n = 10$)*"
         }
     ],
